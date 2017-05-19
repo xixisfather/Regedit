@@ -78,9 +78,9 @@ public class RegeditForSystem {
 	{
 		try {
 			//公司名字拼音
-			String name = "111";
+			String name = "GXJXQCXSFWYXGS";//YDBQCXSFWYXGS//HHJDQCFWYXGS 
 			//机器码
-			String code = "";
+			String code = "14DAE96B64D8";//BCAEC56E785D
 			//有效期
 			String date = "9999-12-31";
 			
